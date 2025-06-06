@@ -47,14 +47,14 @@ Creates a new product with the provided information.
 
    ```bash
    git clone <repository-url>
-   cd MCP
+   cd MCP/bigblue
    ```
 
 2. Install dependencies and build the project:
 
    ```bash
-   npm install
-   npm run build
+   yarn install
+   yarn run build
    ```
 
 3. Configure your MCP client:
